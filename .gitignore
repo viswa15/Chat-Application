@@ -23,5 +23,8 @@ dist-ssr
 *.sln
 *.sw?
 *.js~
+*.jsx~
+*.html~
+*.css~
 
 .env
